@@ -134,7 +134,14 @@
     font-size: 25px;
     margin: 5px;
   }
-  
+/* About_section */
+  .about-flex{
+    display: block;
+    margin: 0px 20px;
+  }
+  .about-heading{
+    margin: 0px 20px;
+  }
   }
   
   /* Tab-device_applies when screen width is >= 601px & <= 768px */
@@ -254,7 +261,14 @@
     font-size: 30px;
     margin: 7px;
   }
-  
+  /* About_section */
+  .about-flex{
+    display: block;
+    margin: 0px 20px;
+  }
+  .about-heading{
+    margin: 0px 20px;
+  }
   }
   
   /* Small-PC-screen_applies when screen width is >= 769px & <= 1024px */
@@ -276,7 +290,14 @@
   section{
     padding: 50px 0;
   }
-  
+  /* About_section */
+  .about-flex{
+    display: block;
+    margin: 0px 20px;
+  }
+  .about-heading{
+    margin: 0px 20px;
+  }
   
   }
   
